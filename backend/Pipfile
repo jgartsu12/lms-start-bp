@@ -1,0 +1,38 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+astroid = "*"
+django = "*"
+djangorestframework = "*"
+autopep8 = "*"
+certifi = "*"
+defusedxml = "*"
+django-allauth = "*"
+django-cors-headers = "*"
+django-rest-auth = "*"
+gunicorn = "*"
+idna = "*"
+isort = "*"
+lazy-object-proxy = "*"
+mccabe = "*"
+oauthlib = "*"
+pep8 = "*"
+pycodestyle = "*"
+pylint = "*"
+python3-openid = "*"
+pytz = "*"
+requests = "*"
+requests-oauthlib = "*"
+six = "*"
+sqlparse = "*"
+typed-ast = "*"
+urllib3 = "*"
+wrapt = "*"
+
+[requires]
+python_version = "3.8"
